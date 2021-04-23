@@ -41,7 +41,7 @@ function draw() {
   textSize("10")
   fill("white");
   text("FOOD REMAINING:",150,200);
-  text("NOTE:PRESS-UP_ARROW KEY TO FEED THE DOG AND MAKE HIM HAPPY!",10,30);
+  text("NOTE:PRESS-UP_ARROW KEY TO FEED THE DOG AND MAKE HIM HAPPY!",50,30);
 
   drawSprites();
   //add styles here
